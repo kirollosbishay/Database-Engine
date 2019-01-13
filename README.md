@@ -12,3 +12,13 @@ Create a data base engine where you can
 
 ****************************************************************************************************
 script to create a file to be used as a database member the script creates the table ( file and insert into it )
+
+BataBase_Engine Directory contains the scripts files
+Data Directory contains all created DataBases
+
+**************
+to RUN
+**************
+./DataBase_Engine/main.sh
+
+Data Types are int | str | mix
